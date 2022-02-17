@@ -1,8 +1,4 @@
-[ ![npm (scoped)]
-(https://img.shields.io/github/issues/hernandack/hallohai)]
-(https://github.com/hernandack/hallohai)
-[ ![npm (scoped)]
-(https://img.shields.io/github/license/hernandack/hallohai)]
-(https://github.com/hernandack/hallohai)
+[![GitHub issues](https://img.shields.io/github/issues/hernandack/hallohai)](https://github.com/hernandack/hallohai/issues)
+[![GitHub stars](https://img.shields.io/github/stars/hernandack/hallohai)](https://github.com/hernandack/hallohai/stargazers)
 
 Tester hallohai
