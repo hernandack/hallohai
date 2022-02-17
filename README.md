@@ -4,10 +4,10 @@
 Tester hallohai
 
 # Install
-$ npm install @7daysaweek/tiny
+$ npm install @7daysaweek/hallohai
 
 # Usage
-const hallohai = require("@7daysaweek/tiny");
+const hallohai = require("@7daysaweek/hallohai");
 
 hallohai("So much space!");
 //=> "Somuchspace!"
